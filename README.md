@@ -1,4 +1,4 @@
-# 🌟 Synchrony - Where Students Teach Students
+# 🌟 Synchrony - Because Chaos Is Expensive
 
 > AI-powered platform that turns study groups into collaborative learning experiences
 
