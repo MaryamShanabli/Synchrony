@@ -2,7 +2,7 @@
 
 > AI-powered platform that turns study groups into collaborative learning experiences
 
-**[🚀 Live Demo](https://huggingface.co/spaces/Lujainossaily/Synchrony)** • **[📊 Database](https://docs.google.com/spreadsheets/d/1J0lmUpP8aTRmjnvzIYRyvPOIYFumvkTwOMbyv8js_Lg/edit?usp=sharing)** • **[📹 Watch Demo](demo/ui-demo.mp4)**
+**[🚀 Live Demo](https://huggingface.co/spaces/maryamshanabli/Synchrony)** • **[📊 Database](https://docs.google.com/spreadsheets/d/1J0lmUpP8aTRmjnvzIYRyvPOIYFumvkTwOMbyv8js_Lg/edit?usp=sharing)** • **[📹 Watch Demo](demo/ui-demo.mp4)**
 
 ---
 
