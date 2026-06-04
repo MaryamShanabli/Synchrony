@@ -169,9 +169,9 @@ Three students are already registered and matched into group `G001` so you can e
 
 | Name | Email | Topics | Confidence |
 |---|---|---|---|
-| Sara Ahmed | `sara.ahmed@test.university.edu` | Linked Lists, Stacks & Queues | 3/5 |
-| Khalid Nasser | `khalid.nasser@test.university.edu` | Trees & Graphs, Algorithm Design | 4/5 |
-| Layla Ibrahim | `layla.ibrahim@test.university.edu` | Databases & SQL, Web Development | 2/5 |
+| student1 | `student1@test.edu` | Linked Lists, Stacks & Queues | 3/5 |
+| student2 | `student2@test.edu` | Trees & Graphs, Algorithm Design | 4/5 |
+| student3 | `student3@test.edu` | Databases & SQL, Web Development | 2/5 |
 
 To try the full experience:
 
